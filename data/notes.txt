@@ -1,0 +1,5 @@
+1.Install json 
+npm i json-server --save
+2.Watch a file
+json-server --watch data/db.json
+//you can add this into a script

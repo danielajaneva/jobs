@@ -1,0 +1,8 @@
+{
+  "jobs": [
+    { "title": "job1", "id": 1, "details": "lorem" },
+    { "title": "job2", "id": 2, "details": "lorem" },
+    { "title": "job3", "id": 3, "details": "lorem" }
+  ]
+}
+
