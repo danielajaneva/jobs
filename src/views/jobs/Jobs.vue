@@ -8,7 +8,7 @@
     </div>
   </div>
   <div v-else>
-    <p>Lodaind jobs...</p>
+    <p>Lodaing jobs...</p>
   </div>
 </template>
 
